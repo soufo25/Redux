@@ -1,5 +1,11 @@
+
 *{
   box-sizing: border-box;
 }
 
-
+.container{
+  align-items: center;
+  margin-left: 5em;
+  color: solid grey;
+  padding: 0.5em  1em; 
+}
